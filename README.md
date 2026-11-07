@@ -1,5 +1,7 @@
 # Encryption-file
 
+加密文件的网页打开链接：https://3518833019.github.io/Encryption-file/%E5%8A%A0%E5%AF%86%E6%96%87%E4%BB%B62%EF%BC%88%E7%BD%91%E9%A1%B5%E7%89%88%EF%BC%89.html 和 https://3518833019.github.io/Encryption-file/%E5%8A%A0%E5%AF%86%E6%96%87%E4%BB%B62%EF%BC%88%E7%BD%91%E9%A1%B5%E7%89%88%EF%BC%89.html
+
 ﻿加密文件2的使用方法
 
 第一步：https://3518833019.github.io/Pictures/%E5%8A%A0%E5%AF%86%E6%96%87%E4%BB%B62%E7%9A%84%E7%95%8C%E9%9D%A2.PNG
